@@ -1,0 +1,109 @@
+[
+    {
+        "date": "2025-06-29",
+        "winners": [{"commander": "Lord Windgrace", "player": "Julian"}],
+        "losers": [
+            {"commander": "Nekusar, the Mindrazer", "player": "Simon"},
+            {"commander": "Atraxa, Praetors' Voice", "player": "Sebastian"}
+        ]
+    },
+    {
+        "date": "2025-06-29",
+        "winners": [{"commander": "Nekusar, the Mindrazer", "player": "Simon"}],
+        "losers": [
+            {"commander": "The Jolly Balloon Man", "player": "Sebastian"},
+            {"commander": "Umbris, Fear Manifest", "player": "Julian"}
+        ]
+    },
+    {
+        "date": "2025-06-29",
+        "winners": [{"commander": "Kianne, Corrupted Memory", "player": "Sebastian"}],
+        "losers": [
+            {"commander": "Nekusar, the Mindrazer", "player": "Simon"},
+            {"commander": "Vnwxt, Verbose Host", "player": "Julian"}
+        ]
+    },
+    {
+        "date": "2025-06-29",
+        "winners": [{"commander": "Rakdos, Lord of Riots", "player": "Simon"}],
+        "losers": [
+            {"commander": "Valgavoth, Harrower of Souls", "player": "Sebastian"},
+            {"commander": "Vnwxt, Verbose Host", "player": "Julian"}
+        ]
+    },
+    {
+        "date": "2025-07-02",
+        "winners": [{"commander": "Omo, Queen of Vesuva", "player": "Julian"}],
+        "losers": [
+            {"commander": "Aminatou, Veil Piercer", "player": "Sebastian"},
+            {
+                "commander": "Frodo, Adventurous Hobbit // Sam, Loyal Attendant",
+                "player": "Simon"
+            }
+        ]
+    },
+    {
+        "date": "2025-07-02",
+        "winners": [{"commander": "Bria, Riptide Rogue", "player": "Simon"}],
+        "losers": [
+            {"commander": "Krenko, Mob Boss", "player": "Sebastian"},
+            {"commander": "Ojer Axonil, Deepest Might", "player": "Julian"}
+        ]
+    },
+    {
+        "date": "2025-07-11",
+        "winners": [{"commander": "Vnwxt, Verbose Host", "player": "Julian"}],
+        "losers": [
+            {"commander": "Tom Bobadil", "player": "Simon"},
+            {"commander": "Hazel of the Rootbloom", "player": "Julian"}
+        ]
+    },
+    {
+        "date": "2025-07-11",
+        "winners": [{"commander": "Gandalf, Westward Voyager", "player": "Simon"}],
+        "losers": [
+            {"commander": "Clavileño, First of the Blessed", "player": "Sebastian"},
+            {"commander": "Temmet, Naktamun's Will", "player": "Julian"}
+        ]
+    },
+    {
+        "date": "2025-07-11",
+        "winners": [{"commander": "Krenko, Mob Boss", "player": "Sebastian"}],
+        "losers": [
+            {"commander": "Zedruu the Greathearted", "player": "Simon"},
+            {"commander": "Dionus, Elvish Archdruid", "player": "Julian"}
+        ]
+    },
+    {
+        "date": "2025-07-11",
+        "winners": [{"commander": "Lord Windgrace", "player": "Julian"}],
+        "losers": [
+            {"commander": "Maha, Its Feathers Night", "player": "Simon"},
+            {"commander": "The Jolly Balloon Man", "player": "Sebastian"}
+        ]
+    },
+    {
+        "date": "2025-07-12",
+        "winners": [{"commander": "Saruman, the White Hand", "player": "Simon"}],
+        "losers": [
+            {"commander": "Kianne, Corrupted Memory", "player": "Sebastian"},
+            {"commander": "Eshki, Temur's Roar", "player": "Julian"}
+        ]
+    },
+    {
+        "date": "2025-07-12",
+        "winners": [{"commander": "Valgavoth, Harrower of Souls", "player": "Sebastian"}],
+        "losers": [
+            {"commander": "Bria, Riptide Rogue", "player": "Simon"},
+            {"commander": "Vnwxt, Verbose Host", "player": "Julian"}
+        ]
+    },
+    {
+        "date": "2025-07-12",
+        "winners": [{"commander": "Ojer Axonil, Deepest Might", "player": "Julian"}],
+        "losers": [
+            {"commander": "The Jolly Balloon Man", "player": "Sebastian"},
+            {"commander": "Rakdos, Lord of Riots", "player": "Julian"}
+        ]
+    }
+]
