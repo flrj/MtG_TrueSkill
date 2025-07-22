@@ -103,7 +103,43 @@
         "winners": [{"commander": "Ojer Axonil, Deepest Might", "player": "Julian"}],
         "losers": [
             {"commander": "The Jolly Balloon Man", "player": "Sebastian"},
-            {"commander": "Rakdos, Lord of Riots", "player": "Julian"}
+            {"commander": "Rakdos, Lord of Riots", "player": "Simon"}
+        ]
+    },
+    {
+        "date": "2025-07-17",
+        "winners": [{"commander": "Y'shtola, Night's Blessed", "player": "Bettina"}],
+        "losers": [
+            {"commander": "Neera, Wild Mage", "player": "Alexander"},
+            {"commander": "Rona, Herald of Invasion // Rona, Tolarian Obliterator", "player": "Simon"},
+            {"commander": "Vnwxt, Verbose Host", "player": "Julian"}
+        ]
+    },
+    {
+        "date": "2025-07-17",
+        "winners": [{"commander": "Umbris, Fear Manifest", "player": "Julian"}],
+        "losers": [
+            {"commander": "Edgar Markov", "player": "Simon"},
+            {"commander": "Astarion, the Decadent", "player": "Bettina"},
+            {"commander": "Ulalek, Fused Atrocity", "player": "Alexander"}
+        ]
+    },
+    {
+        "date": "2025-07-17",
+        "winners": [{"commander": "Otharri, Suns' Glory", "player": "Simon"}],
+        "losers": [
+            {"commander": "The Jolly Balloon Man", "player": "Bettina"},
+            {"commander": "Cloud, Ex-SOLDIER", "player": "Alexander"},
+            {"commander": "Satya, Aetherflux Genius", "player": "Julian"}
+        ]
+    },
+    {
+        "date": "2025-07-22",
+        "winners": [{"commander": "Dionus, Elvish Archdruid", "player": "Julian"}],
+        "losers": [
+            {"commander": "Davros, Dalek Creator", "player": "Alexander"},
+            {"commander": "Lathril, Blade of the Elves", "player": "Manuel"},
+            {"commander": "Maha, Its Feathers Night", "player": "Simon"}
         ]
     }
 ]
